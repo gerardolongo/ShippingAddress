@@ -1,0 +1,3 @@
+C:\Users\Gerry\iCloudDrive\Programmazione\Application\Gestione Indirizzi\GestioneIndirizzi\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Gerry\iCloudDrive\Programmazione\Application\Gestione Indirizzi\GestioneIndirizzi\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.AssemblyInfoInputs.cache
+C:\Users\Gerry\iCloudDrive\Programmazione\Application\Gestione Indirizzi\GestioneIndirizzi\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.AssemblyInfo.cs

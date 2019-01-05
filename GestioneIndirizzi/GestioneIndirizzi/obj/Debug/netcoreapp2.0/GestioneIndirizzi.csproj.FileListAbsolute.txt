@@ -1,0 +1,11 @@
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\bin\Debug\netcoreapp2.0\GestioneIndirizzi.deps.json
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\bin\Debug\netcoreapp2.0\GestioneIndirizzi.runtimeconfig.json
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\bin\Debug\netcoreapp2.0\GestioneIndirizzi.runtimeconfig.dev.json
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\bin\Debug\netcoreapp2.0\GestioneIndirizzi.dll
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\bin\Debug\netcoreapp2.0\GestioneIndirizzi.pdb
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\obj\Debug\netcoreapp2.0\GestioneIndirizzi.csproj.CoreCompileInputs.cache
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\obj\Debug\netcoreapp2.0\GestioneIndirizzi.AssemblyInfoInputs.cache
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\obj\Debug\netcoreapp2.0\GestioneIndirizzi.AssemblyInfo.cs
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\obj\Debug\netcoreapp2.0\GestioneIndirizzi.dll
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\obj\Debug\netcoreapp2.0\GestioneIndirizzi.pdb
+C:\Users\Gerry\source\repos\GestioneIndirizzi\GestioneIndirizzi\obj\Debug\netcoreapp2.0\GestioneIndirizzi.csprojAssemblyReference.cache
